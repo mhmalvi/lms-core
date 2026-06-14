@@ -1,6 +1,8 @@
 <!-- repo-card -->
 ![lms-core](docs/assets/social-card.png)
 
+![lms-core — architecture](docs/assets/architecture.png)
+
 # LMS Core
 
 A generic, extensible Learning Management System platform built with **Laravel 8** and **Vue 3**, designed as a foundational codebase for deploying customized LMS instances.
